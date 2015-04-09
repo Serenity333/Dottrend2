@@ -1,0 +1,10 @@
+.container {
+  position: fixed;
+}
+
+.container-child {
+  background-color: rgba(250, 250, 250, 0.75);
+  box-shadow: 1px 3px 7.12px 0.88px rgba(0, 0, 0, 0.18);
+  width: 897px;
+  height: 652px;
+  }
